@@ -1,4 +1,3 @@
-phân
 n = input("Nhập số nhị phân: ")
 s=str(n)
 decimal = 0
